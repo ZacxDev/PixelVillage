@@ -1,0 +1,8 @@
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\PixelVillage.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\PixelVillage.Properties.Resources.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\PixelVillage.csproj.GenerateResource.Cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\bin\Debug\Pixel Village.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\bin\Debug\Pixel Village.pdb
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\PixelVillage.GameWindow.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\Pixel Village.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\PixelVillage\Sap\obj\Debug\Pixel Village.pdb

@@ -1,0 +1,8 @@
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.GameWindow.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.Properties.Resources.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.csproj.GenerateResource.Cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\bin\Debug\Sap.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\bin\Debug\Sap.pdb
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\Sap\Sap\obj\Debug\Sap.pdb
